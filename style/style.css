@@ -18,6 +18,7 @@ nav > a{
     margin: 1rem;
     border-radius: 50%;
     background-color: white;
+    font-weight: 900;
 }
 
 article{
