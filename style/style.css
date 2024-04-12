@@ -21,6 +21,10 @@ nav > a{
     font-weight: 900;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 article{
     height: 100vh;
     position: relative;
